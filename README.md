@@ -12,13 +12,13 @@ Passionated and capable developer in Nodejs and Python development.</P>
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abeersaqib&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations%22%20alt=%22Followers,%20Commits,%20Stars,%20Repositories,%20PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=utf94&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations%22%20alt=%22Followers,%20Commits,%20Stars,%20Repositories,%20PullRequest">
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abeersaqib&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=utf94&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 <p align="center">
-  <img alt="Abeer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abeersaqib&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=utf94&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior nodejs backend developer;" alt="Senior nodejs backend, nodejs frontend lead developer and passionated business partner" />
@@ -78,7 +78,7 @@ Passionated and capable developer in Nodejs and Python development.</P>
 
 <h1 align="center">🤲</h1>
 <p align="center">
-<a href="mailto:abeersaqib948@gmail.com">Email to Abeer</a>
+<a href="mailto:abeersaqib948@gmail.com">Email Me.</a>
 </p>
 
 
